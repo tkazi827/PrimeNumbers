@@ -1,6 +1,7 @@
 package com.perscholas.hw;
 
-public class primenumbers {
+public class Main {
+
     public static void main(String[] args) {
         reverseWord("This is a test.");
         primeNumbers();
@@ -47,6 +48,6 @@ public class primenumbers {
             return false;
     }
 }
-    }
+
 
 
